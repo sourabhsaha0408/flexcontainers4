@@ -48,12 +48,13 @@ body{
 #input{
     height: 100px;
     font-size: 30px;
-    color: #EFEFF1;
+    color: #EAECEF;
     border: 4px solid #5F75AE;
     border-radius: 10px;
     margin-right: 10px;
     padding-left: 10px;
     font-weight: bold;
+    background-color: #060E25;
 }
 #button{
     height: 108px;
